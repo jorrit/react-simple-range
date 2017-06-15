@@ -68,6 +68,7 @@ range|number|Difference between `max` and `min`
 step|number|Step value (from props)
 ratio|number|Percentage of bar filled
 thumbSize|number|Thumb size value (from props)
+id | string | Identical to value of id prop. Use this to distinguish multiple range sliders in one parent component
 
 ## Development
 1. Fork or clone the repo
